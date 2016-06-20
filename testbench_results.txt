@@ -1,0 +1,8 @@
+      Time | hexA hexB hexSUM hexREF | decA decB decSUM decREF | CORRECT
+    570 ns |    0    4     04     04 |    0    4      4      4 |      OK
+   1370 ns |    C    E     1A     1A |   12   14     26     26 |      OK
+   2170 ns |    8    A     12     12 |    8   10     18     18 |      OK
+   2970 ns |    F    F     1E     1E |   15   15     30     30 |      OK
+   3770 ns |    F    1     10     10 |   15    1     16     16 |      OK
+   4570 ns |    A    5     0F     02 |   10    5     15      2 |      NO
+   5370 ns |    8    7     0F     0F |    8    7     15     15 |      OK
